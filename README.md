@@ -15,6 +15,8 @@ Blender's OBJ importer does read specular map (map_Ks) and normal map (bump), bu
 
 Blender is limited by the old .mtl format—it doesn’t support PBR workflows out of the box. 
 
+I will still do my work and try fix it for Blender's stuborn node system so it will fully works later.
+
 # Requirepments (Python version)
 Python 3 - (https://www.python.org/) - (Don't forget to add it into PATH!!)
 
